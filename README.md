@@ -36,5 +36,5 @@ BUZZER  +     | 7
 
 ![wiring diagram]( https://github.com/ROBTRT421/Sensor-De-Distancia-Arduino/blob/main/Sensor%20de%20Distancia.png "wiring diagram")
 
-El orden exacto de los pines para el RC522 o el SERVO puede ser diferente del que se muestra en la imagen, así que sea inteligente y use la tabla anterior.
+El orden exacto de los pines puede ser diferente del que se muestra en la imagen, así que sea inteligente y use la tabla anterior.
 
