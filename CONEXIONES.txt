@@ -1,0 +1,13 @@
+*- MODULO l2c (interfaz de pantalla lcd)
+GND -> GND
+VCC -> 5V(+ de la protoboard)
+SDA -> A4
+SCL -> A5
+*- HC-SR04 (Modulo Ultrasonico) 
+GND -> GND
+ECHO -> pin10
+TRIG -> pin9
+VCC -> 5V (+ de la protoboard)
+*- BUZZER (activo 5v)
+(+) -> pin7
+(-) -> GND
